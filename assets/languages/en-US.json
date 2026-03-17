@@ -1,0 +1,64 @@
+{
+    "app_title": "Pick A Place",
+    "common": {
+        "km": "km",
+        "distance_updated": "Distance set to {} km."
+    },
+    "home": {
+        "search_hint": "Search places or categories...",
+        "nearby": "Nearby",
+        "finding": "Searching...",
+        "not_found": "No results found.",
+        "winner_title": "Lucky Pick!",
+        "winner_button": "Awesome!",
+        "directions": "Directions",
+        "pick_button": "Spin Wheel",
+        "nav_home": "Home",
+        "nav_settings": "Settings",
+        "list_end": "All nearby places listed!",
+        "load_more": "Load More",
+        "default_place_name": "Place",
+        "distance_display": "{} km away"
+    },
+    "alerts": {
+        "location_service_off": "Location Service Off",
+        "enable_location": "Please enable location.",
+        "permission_required": "Permission Required",
+        "permission_msg": "Location permission is required.",
+        "permission_denied_forever": "Permission Denied Forever",
+        "open_settings_msg": "You must enable permission in Settings.",
+        "error_title": "Error",
+        "fetch_error": "Data could not be fetched. Try again.",
+        "btn_settings": "Settings",
+        "btn_retry": "Try Again",
+        "no_new_places": "No new places found.",
+        "places_added": "places added!"
+    },
+    "categories": {
+        "Hamburger": "Hamburger",
+        "Kebab": "Kebab",
+        "Steakhouse": "Steakhouse",
+        "Chicken": "Chicken",
+        "Pizza": "Pizza",
+        "Pasta": "Pasta",
+        "Seafood": "Seafood",
+        "Home Cooking": "Home Cooking",
+        "Coffee": "Coffee",
+        "Bakery": "Bakery",
+        "Restaurant": "Restaurant",
+        "Pub & Bar": "Pub & Bar"
+    },
+    "settings": {
+        "title": "Search Settings",
+        "language": "Language / Dil",
+        "lang_tr": "Turkish",
+        "lang_en": "English",
+        "max_distance": "Max Distance",
+        "info_note": "Settings are saved automatically upon exit."
+    },
+    "opening": {
+        "checking_permissions": "Checking permissions...",
+        "fetching_location": "Looking for nearby places...",
+        "scanning_places": "Getting location..."
+    }
+}

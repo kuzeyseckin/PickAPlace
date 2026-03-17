@@ -1,0 +1,64 @@
+{
+    "app_title": "Pick A Place",
+    "common": {
+        "km": "km",
+        "distance_updated": "Mesafe {} km yapıldı."
+    },
+    "home": {
+        "search_hint": "Mekan veya kategori ara...",
+        "nearby": "Yakındakiler",
+        "finding": "Aranıyor...",
+        "not_found": "Sonuç bulunamadı.",
+        "winner_title": "Günün Şanslısı!",
+        "winner_button": "Harika!",
+        "directions": "Yol Tarifi",
+        "pick_button": "Çarkı Çevir",
+        "nav_home": "Ana Ekran",
+        "nav_settings": "Ayarlar",
+        "list_end": "Bu bölgedeki tüm mekanlar listelendi!",
+        "load_more": "Daha Fazla Yükle",
+        "default_place_name": "Mekan",
+        "distance_display": "{} km uzaklıkta"
+    },
+    "alerts": {
+        "location_service_off": "Konum Servisi Kapalı",
+        "enable_location": "Lütfen konumu açın.",
+        "permission_required": "İzin Gerekli",
+        "permission_msg": "Uygulama için konum izni şart.",
+        "permission_denied_forever": "İzin Kalıcı Olarak Reddedildi",
+        "open_settings_msg": "Ayarlar'dan izni açmalısınız.",
+        "error_title": "Hata",
+        "fetch_error": "Veri alınamadı. Tekrar deneyin.",
+        "btn_settings": "Ayarlar",
+        "btn_retry": "Tekrar Dene",
+        "no_new_places": "Yeni mekan bulunamadı.",
+        "places_added": "mekan eklendi!"
+    },
+    "categories": {
+        "Hamburger": "Hamburger",
+        "Kebap": "Kebap",
+        "Et Restoranı": "Et Restoranı",
+        "Tavuk": "Tavuk",
+        "Pizza": "Pizza",
+        "Makarna": "Makarna",
+        "Deniz Ürünleri": "Deniz Ürünleri",
+        "Ev Yemekleri": "Ev Yemekleri",
+        "Kahve": "Kahve",
+        "Pastane": "Pastane",
+        "Restaurant": "Restoran",
+        "Pub & Bar": "Pub & Bar"
+    },
+    "settings": {
+        "title": "Arama Ayarları",
+        "language": "Dil / Language",
+        "lang_tr": "Türkçe",
+        "lang_en": "İngilizce",
+        "max_distance": "Maksimum Mesafe",
+        "info_note": "Ayarlarınız sayfadan çıkıldığında otomatik kaydedilir."
+    },
+    "opening": {
+        "checking_permissions": "İzinler kontrol ediliyor...",
+        "fetching_location": "Konum alınıyor...",
+        "scanning_places": "Mekanlar taranıyor..."
+    }
+}

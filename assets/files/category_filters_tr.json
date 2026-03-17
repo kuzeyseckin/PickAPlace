@@ -1,0 +1,238 @@
+{
+    "default_category": "Restaurant",
+    "exclude_words": [
+        "atm",
+        "bankamatik",
+        "market",
+        "bakkal",
+        "tekel",
+        "eczane",
+        "migros",
+        "bim",
+        "a101",
+        "şok",
+        "carrefour",
+        "bank",
+        "kiosk",
+        "telekom",
+        "buro",
+        "büro",
+        "malzeme",
+        "kirtasiye",
+        "kırtasiye",
+        "mobilya",
+        "ofis",
+        "express",
+        "kıraathane",
+        "kırathane",
+        "Kıraathane",
+        "fotokopi",
+        "baskı",
+        "kiraathane",
+        "tasarım",
+        "organizasyon",
+        "düğün",
+        "büfe",
+        "blendax",
+        "saj koy",
+        "yüksel's home",
+        "bahanem live",
+        "site",
+        "halisaha",
+        "halısaha",
+        "dugun salonu",
+        "düğün salonu"
+    ],
+    "rules": [
+        {
+            "target": "Tavuk",
+            "check_name": [
+                "kfc",
+                "popeyes",
+                "tavuk",
+                "chicken",
+                "kanat",
+                "piliç",
+                "cajun",
+                "fast food",
+                "panzarotti"
+            ],
+            "check_category": []
+        },
+        {
+            "target": "Pizza",
+            "check_name": [
+                "domino",
+                "papa",
+                "pizza",
+                "little caesars"
+            ],
+            "check_category": [
+                "pizza"
+            ]
+        },
+        {
+            "target": "Kahve",
+            "check_name": [
+                "kahve",
+                "starbucks",
+                "nero",
+                "gloria",
+                "espresso",
+                "özsüt",
+                "cafe",
+                "coffee",
+                "Coffee",
+                "Cofe",
+                "Cafe",
+                "börek",
+                "borek",
+                "Lokma",
+                "lokma",
+                "Café",
+                "dondurma",
+                "churros",
+                "mado",
+                "profiterol",
+                "lounge"
+            ],
+            "check_category": [
+                "cafe",
+                "coffee"
+            ]
+        },
+        {
+            "target": "Kebap",
+            "check_name": [
+                "kebap",
+                "döner",
+                "iskender",
+                "pide",
+                "lahmacun",
+                "dürüm",
+                "cağ",
+                "ciger",
+                "ciğer",
+                "köfte",
+                "kokoreç",
+                "Döner",
+                "intiba",
+                "Komagene",
+                "şırdan",
+                "şirdan",
+                "kellepaça",
+                "işkembe",
+                "çorba",
+                "dayının yeri",
+                "hacıoğlu",
+                "HACIOĞLU"
+            ],
+            "check_category": [
+                "turkish"
+            ]
+        },
+        {
+            "target": "Pastane",
+            "check_name": [
+                "pastane",
+                "tatlı",
+                "baklava",
+                "künefe",
+                "waffle",
+                "fırın",
+                "simit",
+                "lokma",
+                "dondurma",
+                "churros",
+                "profiterol"
+            ],
+            "check_category": [
+                "bakery",
+                "pastry",
+                "ice cream"
+            ]
+        },
+        {
+            "target": "Deniz Ürünleri",
+            "check_name": [
+                "balık",
+                "midye",
+                "balikçi",
+                "suşi",
+                "sushi",
+                "sushico",
+                "konoha",
+                "istiridye"
+            ],
+            "check_category": [
+                "seafood"
+            ]
+        },
+        {
+            "target": "Makarna",
+            "check_name": [
+                "makarna",
+                "noodle",
+                "italian",
+                "italyan"
+            ],
+            "check_category": [
+                "italian",
+                "pasta"
+            ]
+        },
+        {
+            "target": "Hamburger",
+            "check_name": [
+                "burger",
+                "king",
+                "mc",
+                "arby",
+                "shake shack",
+                "hamburger",
+                "fast food",
+                "carl",
+                "carl's"
+            ],
+            "check_category": []
+        },
+        {
+            "target": "Pub & Bar",
+            "check_name": [
+                "pub",
+                "bar",
+                "night",
+                "zeplin",
+                "Taxi",
+                "Benzin",
+                "meyhane"
+            ],
+            "check_category": []
+        },
+        {
+            "target": "Et Restoranı",
+            "check_name": [
+                "et",
+                "steak",
+                "ocakbaşı",
+                "mangal",
+                "kasap",
+                "nusret",
+                "Et",
+                "Steak"
+            ],
+            "check_category": []
+        },
+        {
+            "target": "Ev Yemekleri",
+            "check_name": [
+                "lokanta",
+                "ev yemekleri",
+                "sofra",
+                "suluyemek",
+                "esnaf"
+            ],
+            "check_category": []
+        }
+    ]
+}

@@ -1,0 +1,299 @@
+{
+    "default_category": "Restaurant",
+    "exclude_words": [
+        "atm",
+        "bank",
+        "grocery",
+        "supermarket",
+        "convenience store",
+        "pharmacy",
+        "drugstore",
+        "gym",
+        "fitness",
+        "hospital",
+        "clinic",
+        "dental",
+        "school",
+        "university",
+        "college",
+        "library",
+        "gas station",
+        "petrol",
+        "oil",
+        "car wash",
+        "repair",
+        "auto",
+        "tire",
+        "mechanic",
+        "hair",
+        "salon",
+        "barber",
+        "beauty",
+        "spa",
+        "nail",
+        "hotel",
+        "motel",
+        "hostel",
+        "resort",
+        "real estate",
+        "lawyer",
+        "consulting",
+        "agency",
+        "office",
+        "outlet",
+        "mall",
+        "mobile",
+        "telecom",
+        "vodafone",
+        "t-mobile",
+        "orange",
+        "at&t",
+        "verizon",
+        "walmart",
+        "tesco",
+        "carrefour",
+        "aldi",
+        "lidl",
+        "7-eleven",
+        "kiosk",
+        "club",
+        "casino",
+        "cinema",
+        "theatre",
+        "museum",
+        "park",
+        "stadium",
+        "arena"
+    ],
+    "rules": [
+        {
+            "target": "Chicken",
+            "check_name": [
+                "kfc",
+                "popeyes",
+                "chicken",
+                "chick-fil-a",
+                "nando's",
+                "wing",
+                "wings",
+                "poultry",
+                "fried chicken",
+                "buffalo",
+                "church's"
+            ],
+            "check_category": [
+                "chicken"
+            ]
+        },
+        {
+            "target": "Pizza",
+            "check_name": [
+                "pizza",
+                "pizzeria",
+                "domino",
+                "papa john",
+                "hut",
+                "little caesars",
+                "slice",
+                "sbarro"
+            ],
+            "check_category": [
+                "pizza"
+            ]
+        },
+        {
+            "target": "Coffee",
+            "check_name": [
+                "coffee",
+                "cafe",
+                "café",
+                "starbucks",
+                "dunkin",
+                "costa",
+                "espresso",
+                "latte",
+                "brew",
+                "roast",
+                "tim hortons",
+                "mccafe",
+                "gloria jean",
+                "nero",
+                "caribou",
+                "bakery",
+                "pastry",
+                "donut",
+                "krispy kreme",
+                "dessert",
+                "ice cream",
+                "gelato",
+                "baskin robbins",
+                "waffle",
+                "crepe"
+            ],
+            "check_category": [
+                "cafe",
+                "coffee_shop",
+                "bakery"
+            ]
+        },
+        {
+            "target": "Kebab",
+            "check_name": [
+                "kebab",
+                "doner",
+                "gyro",
+                "shawarma",
+                "falafel",
+                "turkish",
+                "middle eastern",
+                "persian",
+                "halal",
+                "pide",
+                "lahmacun",
+                "wraps"
+            ],
+            "check_category": [
+                "turkish",
+                "middle_eastern"
+            ]
+        },
+        {
+            "target": "Bakery",
+            "check_name": [
+                "bakery",
+                "pastry",
+                "patisserie",
+                "sweets",
+                "dessert",
+                "cake",
+                "cookie",
+                "cupcake",
+                "cheesecake",
+                "chocolate",
+                "godiva"
+            ],
+            "check_category": [
+                "bakery"
+            ]
+        },
+        {
+            "target": "Seafood",
+            "check_name": [
+                "seafood",
+                "fish",
+                "sushi",
+                "oyster",
+                "lobster",
+                "crab",
+                "shrimp",
+                "prawn",
+                "salmon",
+                "red lobster",
+                "nordsee"
+            ],
+            "check_category": [
+                "seafood",
+                "sushi"
+            ]
+        },
+        {
+            "target": "Pasta",
+            "check_name": [
+                "pasta",
+                "italian",
+                "spaghetti",
+                "noodle",
+                "ramen",
+                "macaroni",
+                "olive garden",
+                "vapiano",
+                "pizza & pasta"
+            ],
+            "check_category": [
+                "italian",
+                "pasta"
+            ]
+        },
+        {
+            "target": "Hamburger",
+            "check_name": [
+                "burger",
+                "mcdonald",
+                "king",
+                "wendy",
+                "five guys",
+                "shake shack",
+                "in-n-out",
+                "carl's",
+                "hardee's",
+                "white castle",
+                "jack in the box",
+                "sonic",
+                "smashburger"
+            ],
+            "check_category": [
+                "burger",
+                "fast_food"
+            ]
+        },
+        {
+            "target": "Pub & Bar",
+            "check_name": [
+                "pub",
+                "bar",
+                "tavern",
+                "brewery",
+                "beer",
+                "wine",
+                "winery",
+                "lounge",
+                "club",
+                "nightclub",
+                "gastropub",
+                "irish pub",
+                "cocktail"
+            ],
+            "check_category": [
+                "bar",
+                "nightlife"
+            ]
+        },
+        {
+            "target": "Steakhouse",
+            "check_name": [
+                "steak",
+                "steakhouse",
+                "grill",
+                "bbq",
+                "barbecue",
+                "smokehouse",
+                "ribs",
+                "meat",
+                "chop house",
+                "outback",
+                "longhorn",
+                "texas roadhouse",
+                "brazilian steakhouse"
+            ],
+            "check_category": [
+                "steakhouse",
+                "bbq"
+            ]
+        },
+        {
+            "target": "Home Cooking",
+            "check_name": [
+                "diner",
+                "bistro",
+                "buffet",
+                "canteen",
+                "kitchen",
+                "home style",
+                "comfort food",
+                "cafeteria",
+                "lunch"
+            ],
+            "check_category": []
+        }
+    ]
+}
